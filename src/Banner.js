@@ -55,4 +55,3 @@ function Banner() {
 
 export default Banner;
 
-// 1.55.50
